@@ -13,9 +13,7 @@ from dateutil.relativedelta import relativedelta
 
 # from creat_bot import creat_new_bot
 
-account_dict = {'wolhtetjuywvb@eurokool.com': 'abc123456789', 'uvffqudbqob@eurokool.com': 'abc123456789',
-                'svakzkwcegq@eurokool.com': 'abc123456789', 'wyabuwztdcct@eurokool.com': 'abc123456789',
-                'qmqows@eurokool.com': 'abc123456789', 'lahuseman88@outlook.com': 'of75stFg8j',
+account_dict = {'lahuseman88@outlook.com': 'of75stFg8j',
                 'hp52477bgmw7027@163.com': 'XnwlHh5VwD', 'px303xgza2591@163.com': 'GMV1x4wtQC',
                 'oxqvp331ztx1@163.com': '2RUt5HOjbh', 'at10574llm37@163.com': 'LE4cy7hHQt',
                 'ijyvnc31uj72@163.com': '68s00wDGmV', 'sf7549vvvd9429@163.com': '3PXQrl4eEa',
